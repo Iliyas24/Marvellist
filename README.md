@@ -1,1 +1,1 @@
-# Marvellist
+In this project, a website listing all current Marvel-related films and television episodes is established. Additionally, users can click the title of a film or television show to be taken to another website where they can examine a synopsis of the work in question. It was created with CSS3 and HTML5.
